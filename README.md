@@ -1,1 +1,1 @@
-# arabic-stop-words
+# Arabic-Stop-Words-List
